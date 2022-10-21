@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    background-color: #000;
+}
+.heading h1{
+    font-size: 55px;
+    text-shadow: 4px 3px #ff8d00;
+    padding: 36px;
+}
+.app__container{
+    background: linear-gradient(120deg, #f6d365 0%, #e7a233 100%);    
+    /* padding: 1rem; */
+    border-radius: 20px;
+    padding: 35px 0;
+    box-shadow: 0 0 26px 0 #00000059;
+}
+.counter__container {
+    padding: 6px 100px 10px 100px;
+    box-shadow: 0 0 17px 0 #00000073;
+    border-radius: 15px
+
+}
+.counter__container h3{
+    font-size: 65px;
+    /* padding: 1px; */
+    padding: 5px 0;
+}
+.btn__custom{
+    border: none;
+    outline: none;
+    background-color: #000 !important;
+    color: #fff !important;
+    font-size: 25px !important;
+    margin: 0 20px;
+    /* padding: 10px; */
+    border-radius: 20%;
+}
+.btn-1{
+    padding: 3px 15px 7px 15px;
+}
+.btn-2{
+    padding: 3px 18px 7px 18px;
+}
